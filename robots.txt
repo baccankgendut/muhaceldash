@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://muhaceldash.netlify.app/sitemap.xml
